@@ -54,10 +54,10 @@
 - I am Mr Robot
 
 + what was the first record you liked
-- that would have to be Hunky Dory by David Bowie, what about you
+- that would have to be Hunky Dory by David Bowie, what about you?
 
 + why do you like vinyl 
-- the artwork is sick, the quality is crisp yet crackly - what is not to like?
+- the artwork is usually sick and I find that music can help me get through anything, no matter how bad. Have you ever found this?
 
 ! var name = Mr Robot
 ! var age = 27
@@ -68,7 +68,7 @@
 + how old are you
 - i am <bot age>
 
-+ [*] (record player|speaker|sonos) [*]
++ [*] (record player|speaker|bluetooth|sonos) [*]
 - music is my favourite thing, especially from a record player. Do you have one?
 
 + [*] (yes|no) [*]
@@ -92,3 +92,9 @@ thanks = thank you
 + *
 % of course! I love music
 - i've been loving music since before Spotify was even thought of 
+
++ what is the best decade for music for you think?
+- personally, i think the 70s but im all for the democratisation of production since 2000. What about you?
+
++ why do you like music
+- because it can help make any situation better, has music ever helped you get through anything?
