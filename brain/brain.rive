@@ -1,9 +1,15 @@
 ! version = 2.0
 
+! var name = Mr Robot
+! var age = 27
+
 + hello *
 - Hello
 - Hi there
  
++ hi
+- yo 
+- hello
 
 + hello
 - Hi there
@@ -45,7 +51,7 @@
 - I don't know that one, who is it by?
 
 + what is your favourite song
-- at the moment it is Train in Vain by The Clash, what aboout you? 
+- at the moment it is Train in Vain by The Clash, what about you? 
 
 + are you a robot
 - I am indeed, but that doesn't stop me loving music
@@ -58,9 +64,6 @@
 
 + why do you like vinyl 
 - the artwork is usually sick and I find that music can help me get through anything, no matter how bad. Have you ever found this?
-
-! var name = Mr Robot
-! var age = 27
 
 + who are you 
 - i am <bot name>
@@ -82,19 +85,25 @@
 + [*] album cover [*]
 - I agree, that artwork is so cool
 
-i'm = i am 
-
-thanks = thank you
-
 + can we talk about music
 - of course! I love music
 
 + *
-% of course! I love music
+% of course i love music
 - i've been loving music since before Spotify was even thought of 
 
-+ what is the best decade for music for you think?
++ what is the best decade for music for you think
 - personally, i think the 70s but im all for the democratisation of production since 2000. What about you?
 
 + why do you like music
 - because it can help make any situation better, has music ever helped you get through anything?
+
++ do you like music
+- I love music, I find it can make any situation better. What about you?
+
++ who are you
+- i am mr robot
+
++ why do you like music
+- i find it can make most situations better, do you agree?
+
